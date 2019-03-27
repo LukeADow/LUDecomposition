@@ -1,7 +1,7 @@
 # LUDecomposition
 This is a program designed to read matrix data from a text file and solve the system using LU Decomposition.
 
-The program takes in input in this format:
+The program takes in input in this format (open file in text editor to see proper formatting and lines of text file):
 
 1 5 9
 -4 3 6
